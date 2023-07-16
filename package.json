@@ -1,17 +1,15 @@
 {        
-    // https://stackoverflow.com/questions/30011737/how-to-add-theme-in-visual-studio-code
-    "name": "Chalk Sunset",
+    "name": "chalksunset",
     "version": "0.0.1",
     "engines": {
-        "vscode": ">=0.9.0-pre.1",
-        "vscodium": ">=0.10.5"
+        "vscode": ">=0.9.0-pre.1"
     },
     "publisher": "Alessandro G. Magnasco",
     "contributes": {
         "themes": [
             {
                 "label": "Chalk Sunset",
-                "uiTheme": "vs-dark", // use "vs" to select the light UI theme
+                "uiTheme": "vs-dark",
                 "path": "./themes/chalk-sunset.tmTheme"
             }
         ]
