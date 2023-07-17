@@ -2,7 +2,7 @@
   "name": "chalk-sunset",
   "displayName": "Chalk Sunset",
   "description": "A dark tmtheme for Codium, Sublime, etc. using the color palette of a sunset I enjoyed.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -28,6 +28,7 @@
     "dark"
   ],
   "author": "Alessandro G. Magnasco",
+  "publisher": "Alessandro G. Magnasco",
   "license": "CC-BY-NC-SA-4.0",
   "bugs": {
     "url": "https://github.com/amagnasco/chalk-sunset/issues"
