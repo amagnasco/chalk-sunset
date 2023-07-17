@@ -2,7 +2,7 @@
   "name": "chalk-sunset",
   "displayName": "Chalk Sunset",
   "description": "A dark tmtheme for Codium, Sublime, etc. using the color palette of a sunset I enjoyed.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -14,7 +14,7 @@
       {
         "label": "Chalk Sunset",
         "uiTheme": "vs-dark",
-        "path": "./themes/Chalk Sunset-color-theme.json"
+        "path": "./themes/chalk-sunset-color-theme.json"
       }
     ]
   },
