@@ -4,6 +4,7 @@
 <!-- ============================================ -->
 <!-- app:  http://tmtheme-editor.herokuapp.com    -->
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
+<!-- https://stackoverflow.com/questions/30011737/how-to-add-theme-in-visual-studio-code -->
 <plist version="1.0">
 <dict>
 	<key>name</key>
@@ -273,8 +274,8 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.morrowind</string>
+	<string>theme.dark.chalk-sunset</string>
 	<key>author</key>
-	<string>Alessandro Magnasco</string>
+	<string>Alessandro G. Magnasco</string>
 </dict>
 </plist>
