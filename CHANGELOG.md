@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Light theme
 - High contrast theme
 
-## [0.0.10] - 2023-07-18
+## [0.1.0] - 2023-07-18
 - Works! Added installation instructions
 - Fixed highlight color
 
