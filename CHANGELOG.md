@@ -9,8 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Light theme
 - High contrast theme
 
-## [0.0.7] - 2023-07-17
-- JSON edits to determine why package is not recognized
+## [0.0.8] - 2023-07-17
+- more JSON edits to determine why package is not recognized
 
 ## [0.0.6] - 2023-07-17
 - Works on VS Code but strangely not recognized on Codium
