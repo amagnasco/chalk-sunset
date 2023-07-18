@@ -5,7 +5,7 @@
 		"editorCursor.foreground": "#D3D7CF",
 		"editor.foreground": "#F8F8F8",
 		"editorWhitespace.foreground": "#BFBFBF",
-		"editor.lineHighlightBackground": "#EEEEEC",
+		"editor.lineHighlightBackground": "#4F177D",
 		"editor.selectionBackground": "#4F177D"
 	},
 	"name": "chalk-sunset"
